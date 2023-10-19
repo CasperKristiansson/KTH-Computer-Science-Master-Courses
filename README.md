@@ -1,6 +1,6 @@
 # 🔭 KTH Computer Science Master Courses
 - [ID2221 - Data Intensive Computing](https://github.com/CasperKristiansson/Data-Intensive-Computing-ID2221)
-- [DA2210 Introduction to the Philosophy of Science and Research Methodology for Computer Scientists](https://github.com/CasperKristiansson/Philosophy-of-Science-and-Research-Methody-DA2210)
+- [DA2210 - Introduction to the Philosophy of Science and Research Methodology for Computer Scientists](https://github.com/CasperKristiansson/Philosophy-of-Science-and-Research-Methody-DA2210)
 
 
 ## [ID2221 - Data Intensive Computing](https://github.com/CasperKristiansson/Data-Intensive-Computing-ID2221)
@@ -21,7 +21,7 @@ After passing the course, students should be able to (according to Bloom's taxon
 - ILO3: Analyze the technical merits of data-intensive computation platforms.
 
 
-## [DA2210 Introduction to the Philosophy of Science and Research Methodology for Computer Scientists](https://github.com/CasperKristiansson/Philosophy-of-Science-and-Research-Methody-DA2210)
+## [DA2210 - Introduction to the Philosophy of Science and Research Methodology for Computer Scientists](https://github.com/CasperKristiansson/Philosophy-of-Science-and-Research-Methody-DA2210)
 - The basic concepts within the philosophy of science and research methodology, such as causality, data, correlation, hypothesis, and inductive-deductive methods.
 - Special methods and problems within computer science and mathematics.
 - Research methodology within engineering projects.
