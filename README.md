@@ -1,6 +1,7 @@
 # 🔭 KTH Computer Science Master Courses
 - [ID2221 - Data Intensive Computing](https://github.com/CasperKristiansson/Data-Intensive-Computing-ID2221)
 - [DA2210 - Introduction to the Philosophy of Science and Research Methodology for Computer Scientists](https://github.com/CasperKristiansson/Philosophy-of-Science-and-Research-Methody-DA2210)
+- [DD2440 - Advanced-Algorithms](https://github.com/CasperKristiansson/Advanced-Algorithms-DD2440)
 
 
 ## [ID2221 - Data Intensive Computing](https://github.com/CasperKristiansson/Data-Intensive-Computing-ID2221)
@@ -37,3 +38,15 @@ After passing the course, students should be able to (according to Bloom's taxon
 - Identify methodological problems in a study
 - Identify ethical problems in different scientific situations and discuss them
 - Plan and carry out the writing of a scientific report.
+
+
+## [DD2440 - Advanced-Algorithms](https://github.com/CasperKristiansson/Advanced-Algorithms-DD2440)
+The course will describe and analyze a number of algorithms for combinatorial computational problems. Algorithmic concepts: Randomized algorithms, approximation algorithms, fixed-parameter algorithms.
+
+### Intended learning outcomes
+After passing the course, the student should be able to:
+- Explain different advanced algorithmic concepts such as randomized algorithms, approximation algorithms, fixed-parameter algorithms
+- Analyze, select, use, and verify algorithms that are based on the above concepts,
+- Develop efficient algorithms that are based on the above concepts,
+- Independently explore existing advanced algorithms, implement them, and improve them using heuristics,
+- Communicate algorithmic ideas in a clear, formal way
