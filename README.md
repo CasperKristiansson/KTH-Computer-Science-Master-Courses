@@ -1,7 +1,9 @@
 # 🔭 KTH Computer Science Master Courses
-- [ID2221 - Data Intensive Computing]([https://github.com/CasperKristiansson/Thesis-Cloud-Computing-Pricing-and-Deployment-Efforts](https://github.com/CasperKristiansson/Data-Intensive-Computing-ID2221)
+- [ID2221 - Data Intensive Computing](https://github.com/CasperKristiansson/Data-Intensive-Computing-ID2221)
 
-## [ID2221 - Data Intensive Computing]([https://github.com/CasperKristiansson/Thesis-Cloud-Computing-Pricing-and-Deployment-Efforts](https://github.com/CasperKristiansson/Data-Intensive-Computing-ID2221)
+
+
+## [ID2221 - Data Intensive Computing](https://github.com/CasperKristiansson/Data-Intensive-Computing-ID2221)
 This course describes the critical technology trends enabling cloud computing and the services and applications they offer. The course covers various advanced topics in data-intensive computing, including:
 - Distributed file systems, e.g., HDFS
 - No SQL databases, e.g., BigTable, Cassandra, Neo4j
