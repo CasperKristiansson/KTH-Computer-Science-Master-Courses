@@ -3,10 +3,11 @@
 - [DA2210 - Introduction to the Philosophy of Science and Research Methodology for Computer Scientists](https://github.com/CasperKristiansson/Philosophy-of-Science-and-Research-Methody-DA2210)
 - [DD2440 - Advanced Algorithms](https://github.com/CasperKristiansson/Advanced-Algorithms-DD2440)
 - [DD2380 - Artificial Inteligence](https://github.com/CasperKristiansson/DD2380-Artificial-Inteligence)
+- [DVA481 Automated Test Generation](https://github.com/CasperKristiansson/Automated-Test-Generation-DVA481)
 
 
 ## [ID2221 - Data Intensive Computing](https://github.com/CasperKristiansson/Data-Intensive-Computing-ID2221)
-This course describes the critical technology trends enabling cloud computing and the services and applications they offer. The course covers various advanced topics in data-intensive computing, including:
+This course describes the critical technology trends enabling cloud computing and its services and applications. The course covers various advanced topics in data-intensive computing, including:
 - Distributed file systems, e.g., HDFS
 - No SQL databases, e.g., BigTable, Cassandra, Neo4j
 - Big Data execution engines, e.g., Map-Reduce, Spark, Spark SQL
@@ -30,19 +31,19 @@ After passing the course, students should be able to (according to Bloom's taxon
 - Experimental methodology.
 - Ethics in science and the role of science in society.
 - How to read and write scientific reports.
-- Practical training in the writing of scientific reports (similar to degree projects).
+- Practical training in writing scientific reports (similar to degree projects).
 
 ### Intended Learning Outcomes
 - Explain and analyze scientific theories relevant to research in computer science,
 - Explain and analyze scientific methods relevant to research in computer science,
-- Review scientific articles in computer science with regard to theory, method, and result critically
+- Review scientific articles in computer science about theory, method, and result critically
 - Identify methodological problems in a study
 - Identify ethical problems in different scientific situations and discuss them
 - Plan and carry out the writing of a scientific report.
 
 
 ## [DD2440 - Advanced-Algorithms](https://github.com/CasperKristiansson/Advanced-Algorithms-DD2440)
-The course will describe and analyze a number of algorithms for combinatorial computational problems. Algorithmic concepts: Randomized algorithms, approximation algorithms, fixed-parameter algorithms.
+The course will describe and analyze several algorithms for combinatorial computational problems. Algorithmic concepts: Randomized algorithms, approximation algorithms, fixed-parameter algorithms.
 
 ### Intended learning outcomes
 After passing the course, the student should be able to:
@@ -55,7 +56,7 @@ After passing the course, the student should be able to:
 
 ## [DD2380 - Artificial Inteligence](https://github.com/CasperKristiansson/DD2380-Artificial-Inteligence)
 ### Course contents
-The following fields are treated within the scope of the course:  problem-solving with search algorithms, heuristics, knowledge representations (logic), planning, representation of uncertainty and inference (Bayesian networks, HMM), decision theory and utility theory, diction (NLP). 
+The following fields are treated within the scope of the course:  problem-solving with search algorithms, heuristics, knowledge representations (logic), planning, representation of uncertainty and inference (Bayesian networks, HMM), decision theory and utility theory, and diction (NLP). 
 
 ### Intended learning outcomes
 **After passing the course, the student shall be able to:**
@@ -63,11 +64,17 @@ The following fields are treated within the scope of the course:  problem-solvin
 1. apply different principles of Artificial Intelligence (AI) 
 2. choose appropriate tools and implement efficient solutions to problems in AI 
 3. integrate tools to design computer programs that show different properties that are expected by an intelligent system 
-4. present, analyze, and entitle your own solution to an AI problem 
+4. present, analyze, and entitle your solution to an AI problem 
 5. reflect on and discuss current social and ethical aspects of AI 
 
-**To be able to:**
+## [DVA481 Automated Test Generation](https://github.com/CasperKristiansson/Automated-Test-Generation-DVA481)
+The increasing competition pressure for the rapid introduction of new or modified system versions is posing problems in properly testing software. These pressures have led many organizations to begin transitioning their development processes to agile development and continuous integration, greatly shortening the time available to conduct comprehensive testing.
 
-- draw use of methods of artificial intelligence in the analysis, design, and implementation of computer programs 
-- contribute to designing an intelligent system in academic and industrial applications. 
+This course provides an understanding of automating software testing using program analysis with the goal of intelligently and algorithmically creating tests. The course covers search-based test generation, combinatorial and random testing while highlighting the challenges associated with the use of automatic test generation.
+
+### Course Content
+- Understand algorithmic test generation techniques and their use in developer testing and continuous integration.
+- Understand how to generate test cases with assertions automatically.
+- Have a working knowledge and experience in static and dynamic generation of tests.
+- Have an overview knowledge of search-based testing and the use of machine learning for test generation.
 
