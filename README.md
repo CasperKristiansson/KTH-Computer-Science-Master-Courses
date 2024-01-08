@@ -3,7 +3,7 @@
 - [DA2210 - Introduction to the Philosophy of Science and Research Methodology for Computer Scientists](https://github.com/CasperKristiansson/Philosophy-of-Science-and-Research-Methody-DA2210)
 - [DD2440 - Advanced Algorithms](https://github.com/CasperKristiansson/Advanced-Algorithms-DD2440)
 - [DD2380 - Artificial Inteligence](https://github.com/CasperKristiansson/DD2380-Artificial-Inteligence)
-- [DVA481 Automated Test Generation](https://github.com/CasperKristiansson/Automated-Test-Generation-DVA481)
+- [DVA481 - Automated Test Generation](https://github.com/CasperKristiansson/Automated-Test-Generation-DVA481)
 
 
 ## [ID2221 - Data Intensive Computing](https://github.com/CasperKristiansson/Data-Intensive-Computing-ID2221)
@@ -67,7 +67,7 @@ The following fields are treated within the scope of the course:  problem-solvin
 4. present, analyze, and entitle your solution to an AI problem 
 5. reflect on and discuss current social and ethical aspects of AI 
 
-## [DVA481 Automated Test Generation](https://github.com/CasperKristiansson/Automated-Test-Generation-DVA481)
+## [DVA481 - Automated Test Generation](https://github.com/CasperKristiansson/Automated-Test-Generation-DVA481)
 The increasing competition pressure for the rapid introduction of new or modified system versions is posing problems in properly testing software. These pressures have led many organizations to begin transitioning their development processes to agile development and continuous integration, greatly shortening the time available to conduct comprehensive testing.
 
 This course provides an understanding of automating software testing using program analysis with the goal of intelligently and algorithmically creating tests. The course covers search-based test generation, combinatorial and random testing while highlighting the challenges associated with the use of automatic test generation.
