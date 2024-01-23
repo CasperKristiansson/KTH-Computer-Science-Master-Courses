@@ -4,6 +4,7 @@
 - [DD2440 - Advanced Algorithms](https://github.com/CasperKristiansson/Advanced-Algorithms-DD2440)
 - [DD2380 - Artificial Inteligence](https://github.com/CasperKristiansson/DD2380-Artificial-Inteligence)
 - [DVA481 - Automated Test Generation](https://github.com/CasperKristiansson/Automated-Test-Generation-DVA481)
+- [DD2520 - Applied Cryptography](https://github.com/CasperKristiansson/Applied-Cryptography-DD2520)
 
 
 ## [ID2221 - Data Intensive Computing](https://github.com/CasperKristiansson/Data-Intensive-Computing-ID2221)
@@ -36,7 +37,7 @@ After passing the course, students should be able to (according to Bloom's taxon
 ### Intended Learning Outcomes
 - Explain and analyze scientific theories relevant to research in computer science,
 - Explain and analyze scientific methods relevant to research in computer science,
-- Review scientific articles in computer science about theory, method, and result critically
+- Review scientific articles in computer science about theory, method, and results critically
 - Identify methodological problems in a study
 - Identify ethical problems in different scientific situations and discuss them
 - Plan and carry out the writing of a scientific report.
@@ -68,7 +69,7 @@ The following fields are treated within the scope of the course:  problem-solvin
 5. reflect on and discuss current social and ethical aspects of AI 
 
 ## [DVA481 - Automated Test Generation](https://github.com/CasperKristiansson/Automated-Test-Generation-DVA481)
-The increasing competition pressure for the rapid introduction of new or modified system versions is posing problems in properly testing software. These pressures have led many organizations to begin transitioning their development processes to agile development and continuous integration, greatly shortening the time available to conduct comprehensive testing.
+The increasing competition pressure for the rapid introduction of new or modified system versions poses problems in properly testing software. These pressures have led many organizations to transition their development processes to agile development and continuous integration, greatly shortening the time to conduct comprehensive testing.
 
 This course provides an understanding of automating software testing using program analysis with the goal of intelligently and algorithmically creating tests. The course covers search-based test generation, combinatorial and random testing while highlighting the challenges associated with the use of automatic test generation.
 
@@ -76,5 +77,21 @@ This course provides an understanding of automating software testing using progr
 - Understand algorithmic test generation techniques and their use in developer testing and continuous integration.
 - Understand how to generate test cases with assertions automatically.
 - Have a working knowledge and experience in static and dynamic generation of tests.
-- Have an overview knowledge of search-based testing and the use of machine learning for test generation.
+- Have an overview of search-based testing and the use of machine learning for test generation.
+
+## [DD2520 - Applied Cryptography](https://github.com/CasperKristiansson/Applied-Cryptography-DD2520)
+### Course contents
+Basic concepts and principles of cryptography, intuition about security, implementation and engineering aspects as well as influence on society, black box analysis, use of cryptographic primitives such as symmetric and asymmetric encryption in applications, digital signatures, cryptographic hash functions, and simple cryptosystems and cryptographic protocols.
+
+### Intended learning outcomes
+After passing the course, the student should be able to:
+
+use basic terminology in computer security and cryptography correctly
+describe cryptographic concepts and explain their security properties
+find and use documentation of cryptographic libraries and standards
+identify and categorize threats against a cryptographic IT system at a conceptual level, suggest appropriate countermeasures, and present the reasoning to others
+to
+
+as a citizen and engineer be able to discuss applied cryptography in general and the risks of using/developing cryptography in particular
+in professional life and/or research and development projects be able to evaluate challenges in software development related to cryptography.
 
