@@ -5,6 +5,8 @@
 - [DD2380 - Artificial Inteligence](https://github.com/CasperKristiansson/DD2380-Artificial-Inteligence)
 - [DVA481 - Automated Test Generation](https://github.com/CasperKristiansson/Automated-Test-Generation-DVA481)
 - [DD2520 - Applied Cryptography](https://github.com/CasperKristiansson/Applied-Cryptography-DD2520)
+- [DD2480 - Software Engineering Fundamentals](https://github.com/CasperKristiansson/Software-Engineering-Fundamentals-DD2480)
+- [DD2459 - Software Reliability](https://github.com/CasperKristiansson/Software-Reliability-DD2459)
 
 
 ## [ID2221 - Data Intensive Computing](https://github.com/CasperKristiansson/Data-Intensive-Computing-ID2221)
@@ -86,12 +88,55 @@ Basic concepts and principles of cryptography, intuition about security, impleme
 ### Intended learning outcomes
 After passing the course, the student should be able to:
 
-use basic terminology in computer security and cryptography correctly
-describe cryptographic concepts and explain their security properties
-find and use documentation of cryptographic libraries and standards
-identify and categorize threats against a cryptographic IT system at a conceptual level, suggest appropriate countermeasures, and present the reasoning to others
-to
+- use basic terminology in computer security and cryptography correctly
+- describe cryptographic concepts and explain their security properties
+- find and use documentation of cryptographic libraries and standards
+- identify and categorize threats against a cryptographic IT system at a conceptual level, suggest appropriate countermeasures, and present the reasoning to others to as a citizen and engineer be able to discuss applied cryptography in general and the risks of using/developing cryptography in particular in professional life and/or research and development projects be able to evaluate challenges in software development related to cryptography.
 
-as a citizen and engineer be able to discuss applied cryptography in general and the risks of using/developing cryptography in particular
-in professional life and/or research and development projects be able to evaluate challenges in software development related to cryptography.
+
+## [DD2480 - Software Engineering Fundamentals](https://github.com/CasperKristiansson/Software-Engineering-Fundamentals-DD2480)
+
+### Course contents
+
+- Requirements engineering
+- Revision control, continuous integration, and the life cycle for software.
+- Design patterns, and components.
+- Testing and debugging.
+- Software maintenance, configuration management, refactoring.
+- Quality assurance Estimation and measurement of performance code complexity, and scalability.  
+
+### Intended learning outcomes
+
+After completion of the course, students should be able to:
+
+- apply revision control to a software project
+- systematically test and debug a program
+- combine different types of software testing technologies in a project
+- understand and use patterns for the design and implementation of software
+- deploy quality assurance techniques and judge their results.
+
+## [DD2459 - Software Reliability](https://github.com/CasperKristiansson/Software-Reliability-DD2459)
+### Course contents
+The course will cover the following topics:  
+
+- software testing concepts according to the V-model
+- graphical requirements modeling, including use case modeling
+- logical requirements modeling, including preconditions, postconditions, and class invariants
+- graph coverage models
+- logic coverage models
+- input space partitioning
+- syntax based testing
+- reliability models
+- advanced topics such as automated and model-based testing.  
+
+The theoretical subjects are supported by laboratory work to deepen the student's understanding of important concepts.
+
+### Intended learning outcomes
+Having passed the course, the student shall be able to:
+
+- identify the basic activities needed for software testing, including requirements capture, test planning, test case generation, test case execution, fault diagnosis and fault correction
+- construct requirements models for simple embedded, reactive, and object-oriented systems
+- construct a test suite for a simple requirements model
+- assess the quality of a test suite according to a variety of coverage models.
+
 
