@@ -8,6 +8,7 @@
 - [DD2480 - Software Engineering Fundamentals](https://github.com/CasperKristiansson/Software-Engineering-Fundamentals-DD2480)
 - [DD2459 - Software Reliability](https://github.com/CasperKristiansson/Software-Reliability-DD2459)
 - [Computational Intelligence](https://github.com/CasperKristiansson/Computational-Intelligence)
+- [Advanced Data Analysis](https://github.com/CasperKristiansson/Advanced-Data-Analysis)
 
 
 ## [ID2221 - Data Intensive Computing](https://github.com/CasperKristiansson/Data-Intensive-Computing-ID2221)
@@ -143,3 +144,8 @@ Having passed the course, the student shall be able to:
 ## [Computational Intelligence](https://github.com/CasperKristiansson/Computational-Intelligence)
 ### Course Description
 Lecture on calculation methods for control, reasoning, adaptation/learning, and optimization using soft computing techniques (Fuzzy Reasoning, Artificial Neural Networks, Genetic Algorithm, etc.) in addition to numerical computation. 
+
+## [Advanced Data Analysis](https://github.com/CasperKristiansson/Advanced-Data-Analysis)
+### Course Description
+- Learn practical data analysis on Python environments.
+- Learn about visualization of data and representation of analysis results on Python environments.
