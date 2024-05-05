@@ -9,6 +9,7 @@
 - [DD2459 - Software Reliability](https://github.com/CasperKristiansson/Software-Reliability-DD2459)
 - [Computational Intelligence](https://github.com/CasperKristiansson/Computational-Intelligence)
 - [Advanced Data Analysis](https://github.com/CasperKristiansson/Advanced-Data-Analysis)
+- [Game Theory](https://github.com/CasperKristiansson/Game-Theory)
 
 
 ## [ID2221 - Data Intensive Computing](https://github.com/CasperKristiansson/Data-Intensive-Computing-ID2221)
@@ -143,9 +144,12 @@ Having passed the course, the student shall be able to:
 
 ## [Computational Intelligence](https://github.com/CasperKristiansson/Computational-Intelligence)
 ### Course Description
-Lecture on calculation methods for control, reasoning, adaptation/learning, and optimization using soft computing techniques (Fuzzy Reasoning, Artificial Neural Networks, Genetic Algorithm, etc.) in addition to numerical computation. 
+Lecture on calculation methods for control, reasoning, adaptation/learning, and optimization using soft computing techniques (Fuzzy Reasoning, Artificial Neural Networks, Genetic Algorithm, etc.) in addition to numerical computation.
 
 ## [Advanced Data Analysis](https://github.com/CasperKristiansson/Advanced-Data-Analysis)
 ### Course Description
 - Learn practical data analysis on Python environments.
 - Learn about visualization of data and representation of analysis results on Python environments.
+
+## [Game Theory](https://github.com/CasperKristiansson/Game-Theory)
+When an intelligent agent makes an decision, it need to consider the existence of other agents and how they choose their decisions. Game theory, which is founded by John von Neumann, aims to deal with decision making of rational agents in such situations. This lecture covers the basics of game theory, as well as auction theory, which is an application domain of game theory. More specifically, this lecture describes basic auction mechanisms (e.g., ascending, descending, first-price, second-price) and their properties. Finally, this lecture covers mechanism design theory, which deals with a more general group decision making procedure.
