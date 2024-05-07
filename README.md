@@ -7,6 +7,7 @@
 - [DD2520 - Applied Cryptography](https://github.com/CasperKristiansson/Applied-Cryptography-DD2520)
 - [DD2480 - Software Engineering Fundamentals](https://github.com/CasperKristiansson/Software-Engineering-Fundamentals-DD2480)
 - [DD2459 - Software Reliability](https://github.com/CasperKristiansson/Software-Reliability-DD2459)
+- [DD2300 - Program-Cohesive-Course-In-Computer-Science](https://github.com/CasperKristiansson/Program-Cohesive-Course-In-Computer-Science-DD2300)
 - [Computational Intelligence](https://github.com/CasperKristiansson/Computational-Intelligence)
 - [Advanced Data Analysis](https://github.com/CasperKristiansson/Advanced-Data-Analysis)
 - [Game Theory](https://github.com/CasperKristiansson/Game-Theory)
@@ -141,6 +142,15 @@ Having passed the course, the student shall be able to:
 - construct requirements models for simple embedded, reactive, and object-oriented systems
 - construct a test suite for a simple requirements model
 - assess the quality of a test suite according to a variety of coverage models.
+
+## [DD2300 - Program-Cohesive-Course-In-Computer-Science](https://github.com/CasperKristiansson/Program-Cohesive-Course-In-Computer-Science-DD2300)
+The Program Integrating Course runs through both years of the Master's Program in Computer Science at KTH. The course uses reflections as the main educational instrument.
+
+You will learn why the compulsory courses are compulsory in the program and how these relate to each other, how you should select courses and specialization to become well-prepared for your future employment, and how to study to gain the most from the program.
+
+The program integrating course each year simply consists of four one-hour seminars in groups of about a dozen first and second year students, together with a professor as a mentor. Since the program is quite large there are 24 parallel groups and 12 professors as mentors.
+
+Each seminar has a topic, some links to texts to read or videos to look at, and some questions to think about. You will write a reflection on the topic and also on your current courses and studies. Thereafter you will should read and comment the other students' reflections and discuss them at a seminar.
 
 ## [Computational Intelligence](https://github.com/CasperKristiansson/Computational-Intelligence)
 ### Course Description
