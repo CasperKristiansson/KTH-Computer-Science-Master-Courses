@@ -11,6 +11,7 @@
 - [Computational Intelligence](https://github.com/CasperKristiansson/Computational-Intelligence)
 - [Advanced Data Analysis](https://github.com/CasperKristiansson/Advanced-Data-Analysis)
 - [Game Theory](https://github.com/CasperKristiansson/Game-Theory)
+- [Transportation Planning](https://github.com/CasperKristiansson/Transport-Planning)
 
 
 ## [ID2221 - Data Intensive Computing](https://github.com/CasperKristiansson/Data-Intensive-Computing-ID2221)
@@ -163,3 +164,11 @@ Lecture on calculation methods for control, reasoning, adaptation/learning, and 
 
 ## [Game Theory](https://github.com/CasperKristiansson/Game-Theory)
 When an intelligent agent makes an decision, it need to consider the existence of other agents and how they choose their decisions. Game theory, which is founded by John von Neumann, aims to deal with decision making of rational agents in such situations. This lecture covers the basics of game theory, as well as auction theory, which is an application domain of game theory. More specifically, this lecture describes basic auction mechanisms (e.g., ascending, descending, first-price, second-price) and their properties. Finally, this lecture covers mechanism design theory, which deals with a more general group decision making procedure.
+
+## [Transportation Planning](https://github.com/CasperKristiansson/Transport-Planning)
+- Overview of the transportation system (Transportation Planning Ⅰ)
+- Trip generation (Transportation Planning Ⅰ)
+- Vehicle and Human characteristics (Transportation Planning Ⅰ)
+- Traffic Flow (Transportation Planning Ⅱ)
+- Public passenger transportation (Transportation Planning Ⅱ)
+- Urban transportation planning (Transportation Planning Ⅱ) 
