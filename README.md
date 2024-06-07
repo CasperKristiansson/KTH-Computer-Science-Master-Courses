@@ -12,6 +12,8 @@
 - [Advanced Data Analysis](https://github.com/CasperKristiansson/Advanced-Data-Analysis)
 - [Game Theory](https://github.com/CasperKristiansson/Game-Theory)
 - [Transportation Planning](https://github.com/CasperKristiansson/Transport-Planning)
+- [Data Mining](https://github.com/CasperKristiansson/Data-Mining)
+- [Fondation of Multi Agent Systems](https://github.com/CasperKristiansson/Foundations-of-Multi-Agent-Systems)
 
 
 ## [ID2221 - Data Intensive Computing](https://github.com/CasperKristiansson/Data-Intensive-Computing-ID2221)
@@ -171,4 +173,20 @@ When an intelligent agent makes an decision, it need to consider the existence o
 - Vehicle and Human characteristics (Transportation Planning Ⅰ)
 - Traffic Flow (Transportation Planning Ⅱ)
 - Public passenger transportation (Transportation Planning Ⅱ)
-- Urban transportation planning (Transportation Planning Ⅱ) 
+- Urban transportation planning (Transportation Planning Ⅱ)
+
+## [Data Mining](https://github.com/CasperKristiansson/Data-Mining)
+| Topic             | Content                                                                 | Expected Outside Work                                           |
+|-------------------|-------------------------------------------------------------------------|------------------------------------------------------------------|
+| 1. Basics of Multivariate Analysis | Learn the meaning and calculation methods of descriptive statistics for multivariate data. | Review the content after class.                                   |
+| 2. Multiple Regression Analysis    | Learn the theory of multiple regression analysis and acquire practical methods through exercises. | Review the theory after class and practice using a computer.     |
+| 3. Principal Component Analysis    | Learn the theory of principal component analysis and acquire practical methods through exercises. | Review the theory after class and practice using a computer.     |
+
+
+## [Fondation of Multi Agent Systems](https://github.com/CasperKristiansson/Foundations-of-Multi-Agent-Systems)
+A multi-agent system consists of multiple "agents" that can act autonomously. Each agent locally communicates and interacts with the neighbours to meet some global design objectives. Such systems include "smart mobility" such as vehicle platoons, power networks and smart grids, and sensor networks. The course introduces some basic ideas, techniques, and theories to control multi-agent systems.
+
+Main topics:
+1. Introduction to multi-agent systems
+2. Mathematical foundation (Linear algebra and algebraic graph theory)
+3. Consensus control
