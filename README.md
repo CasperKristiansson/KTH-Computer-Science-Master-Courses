@@ -14,6 +14,7 @@
 - [Transportation Planning](https://github.com/CasperKristiansson/Transport-Planning)
 - [Data Mining](https://github.com/CasperKristiansson/Data-Mining)
 - [Fondation of Multi Agent Systems](https://github.com/CasperKristiansson/Foundations-of-Multi-Agent-Systems)
+- [Pattern Recognition](https://github.com/CasperKristiansson/Pattern-Recognition)
 
 
 ## [ID2221 - Data Intensive Computing](https://github.com/CasperKristiansson/Data-Intensive-Computing-ID2221)
@@ -190,3 +191,6 @@ Main topics:
 1. Introduction to multi-agent systems
 2. Mathematical foundation (Linear algebra and algebraic graph theory)
 3. Consensus control
+
+## [Pattern Recognition](https://github.com/CasperKristiansson/Pattern-Recognition)
+The aim of this course is to let students acquire fundamental knowledge and skills about pattern recognition. The content of the course includes feature extraction, clustering, dimensionality reduction, statistical modeling, classification, time-series data and so on. In addition, programming exercises will provide students with practical experience. (* open for global course)
