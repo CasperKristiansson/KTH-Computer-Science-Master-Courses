@@ -16,6 +16,7 @@
 - [Fondation of Multi Agent Systems](https://github.com/CasperKristiansson/Foundations-of-Multi-Agent-Systems)
 - [Pattern Recognition](https://github.com/CasperKristiansson/Pattern-Recognition)
 - [DD2482 - Automated Software Testing and DevOps](https://github.com/CasperKristiansson/Automated-Software-Testing-and-DevOps-DD2482)
+- [DD2443 - Parallel and Distributed Computing](https://github.com/CasperKristiansson/Parallel-and-Distributed-Computing-DD2443)
 
 
 ## [ID2221 - Data Intensive Computing](https://github.com/CasperKristiansson/Data-Intensive-Computing-ID2221)
@@ -219,3 +220,22 @@ The aim of this course is to let students acquire fundamental knowledge and skil
 **in order to**
 - have the required skills of a Devops Engineer
 - be prepared for lifelong learning with respect to fast-changing technology.
+
+
+## [DD2443 - Parallel and Distributed Computing](https://github.com/CasperKristiansson/Parallel-and-Distributed-Computing-DD2443)
+
+### Course contents
+
+The course is an advanced course in parallel and distributed computations, dealing with the following subjects:
+
+- models, fundamental concepts and analytical methods for parallel and distributed systems, fundamental limitations and impossibility results
+- algorithms and protocols for commonly occurring computing problems in communication, synchronisation, fault tolerance, coordination, consensus and replication, sharing and security, and distributed storing.
+
+The course assumes interest for programming and theoretical issues.
+
+### Intended learning outcomes
+
+After passing the course, the student should be able to
+
+- account for models, limitations and fundamental concepts within parallel computations with communication based both on message passing and shared memory
+- apply and adapt existing algorithms and develop new algorithms for execution on parallel and distributed machines and analyse these algorithms with regard to correctness, security and performance.
