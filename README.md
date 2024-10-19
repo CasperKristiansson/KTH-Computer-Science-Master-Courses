@@ -15,6 +15,7 @@
 - [Data Mining](https://github.com/CasperKristiansson/Data-Mining)
 - [Fondation of Multi Agent Systems](https://github.com/CasperKristiansson/Foundations-of-Multi-Agent-Systems)
 - [Pattern Recognition](https://github.com/CasperKristiansson/Pattern-Recognition)
+- [DD2482 - Automated Software Testing and DevOps](https://github.com/CasperKristiansson/Automated-Software-Testing-and-DevOps-DD2482)
 
 
 ## [ID2221 - Data Intensive Computing](https://github.com/CasperKristiansson/Data-Intensive-Computing-ID2221)
@@ -193,4 +194,28 @@ Main topics:
 3. Consensus control
 
 ## [Pattern Recognition](https://github.com/CasperKristiansson/Pattern-Recognition)
-The aim of this course is to let students acquire fundamental knowledge and skills about pattern recognition. The content of the course includes feature extraction, clustering, dimensionality reduction, statistical modeling, classification, time-series data and so on. In addition, programming exercises will provide students with practical experience. (* open for global course)
+The aim of this course is to let students acquire fundamental knowledge and skills about pattern recognition. The content of the course includes feature extraction, clustering, dimensionality reduction, statistical modeling, classification, time-series data and so on. In addition, programming exercises will provide students with practical experience.
+
+
+## [DD2482 - Automated Software Testing and DevOps](https://github.com/CasperKristiansson/Automated-Software-Testing-and-DevOps-DD2482)
+### Course contents
+
+- Software testing
+- Continuous integration
+- Continuous delivery
+- Continuous deployment
+- Continuous monitoring
+
+### Intended learning outcomes
+
+**After passing the course, the student shall be able to**
+
+- Write and deploy tests, and assess test quality
+- use the state-of-the-art of software development platforms
+- configure and deploy infrastructure software, including continuous integration, continuous delivery, and continuous deployment
+- use collaborative platforms for software development
+- design, deploy and orchestrate microservices and containers
+
+**in order to**
+- have the required skills of a Devops Engineer
+- be prepared for lifelong learning with respect to fast-changing technology.
